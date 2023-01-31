@@ -1,0 +1,11 @@
+{
+  "name": "config",
+  "version": "0.0.1",
+  "description": "Shared configuration for ShadUI",
+  "main": "postcss.config.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT"
+}
